@@ -8,3 +8,7 @@
   margin-top: 100px;
   cursor: pointer;
 }
+.theme-icon:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}

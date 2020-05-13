@@ -2,18 +2,27 @@ import React, { Component } from "react";
 import Hero from "../../images/hero.svg";
 import Mahboub from "../../images/Mahboub.jpg";
 import Programming from "../../images/Programming.png";
+import { Element } from "react-scroll";
+import NavBar from "../NavBar/NavBar";
 import Tech from "../../images/Tech.png";
 
 import "./Home.css";
 
+function ProjectElement() {
+  return <div className="Home-Project"></div>;
+}
 function Projects() {
   return (
     <div className="Home-Projects">
-      <h1 id="Projects">Projects</h1>
+      <Element id="projects">
+        <h1>Projects</h1>
+      </Element>
+      <div className="Projects-container">
+        <ProjectElement />
+      </div>
     </div>
   );
 }
-
 function Skill(props) {
   return (
     <div className="skill">
@@ -22,7 +31,7 @@ function Skill(props) {
       {props.name !== "Technologies" && (
         <div>
           <ul className="MySkillsList">
-            <li>C++ / C / C# / Assemplyx86</li>
+            <li>C++ / C / C# / Assemblyx86</li>
             <li>Java Script / TypeScript</li>
             <li>Python</li>
             <li>Matlab</li>
