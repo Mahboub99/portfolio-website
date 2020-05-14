@@ -2,23 +2,41 @@ import React, { Component } from "react";
 import Hero from "../../images/hero.svg";
 import Mahboub from "../../images/Mahboub.jpg";
 import Programming from "../../images/Programming.png";
-import { Element } from "react-scroll";
-import NavBar from "../NavBar/NavBar";
 import Tech from "../../images/Tech.png";
+import ProjectsArr from "../../DataBase/Projects";
+import { Link } from "react-router-dom";
 
 import "./Home.css";
 
-function ProjectElement() {
-  return <div className="Home-Project"></div>;
+function ProjectElement(props) {
+  console.log(props.id);
+  return (
+    <Link to={"project/" + props.id} style={{ textDecoration: "none" }}>
+      <div className="Home-Project">
+        <img
+          src={props.image}
+          alt={props.name}
+          className="Home-Project-logo"
+        ></img>
+        <h4 style={{ color: "#191A1D" }}>{props.name}</h4>
+      </div>
+    </Link>
+  );
 }
 function Projects() {
   return (
     <div className="Home-Projects">
-      <Element id="projects">
-        <h1>Projects</h1>
-      </Element>
+      <h1 id="projects">Projects</h1>
       <div className="Projects-container">
-        <ProjectElement />
+        {ProjectsArr.map(project => (
+          <ProjectElement
+            key={project.key}
+            id={project.id}
+            name={project.name}
+            key={project.key}
+            image={project.photoLogo}
+          />
+        ))}
       </div>
     </div>
   );

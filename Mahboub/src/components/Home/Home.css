@@ -102,10 +102,17 @@
 .Home-Project {
   background-color: #ffffff;
   height: 220px;
-  width: 350px;
-  margin: 40px;
+  width: 300px;
+  margin: 20px;
   padding: 10px;
-
   border-radius: 14px;
-  box-shadow: 0 3px 8px -2px rgba(70, 70, 70, 0.5);
+  box-shadow: 0 3px 8px -2px rgba(190, 121, 223, 1);
+}
+.Home-Project-logo {
+  width: 150px;
+}
+.Home-Project:hover {
+  transform: scale(1.05);
+  transition: (0.2);
+  opacity: 0.2;
 }

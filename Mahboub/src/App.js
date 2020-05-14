@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Home from "./components/Home/Home";
+import Project from "./components/Project/Project";
 import NavBar from "./components/NavBar/NavBar";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { ThemeProvider } from "styled-components";
@@ -36,6 +37,7 @@ class App extends Component {
 
               <Switch>
                 <Route exact path="/" component={Home} />
+                <Route path="/project/:pId" component={Project} />
               </Switch>
             </Header>
           </div>

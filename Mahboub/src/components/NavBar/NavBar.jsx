@@ -21,17 +21,9 @@ class NavBar extends Component {
         </Link>
         <div className="Nav-links">
           <Link to="/">Home</Link>
+          <a href="/#projects">Projects</a>
 
-          <ScrollLink
-            className="navy"
-            smooth={true}
-            duration={500}
-            to="projects"
-          >
-            projects
-          </ScrollLink>
-
-          <Link to="/">Contacts</Link>
+          <a href="/#projects">Contacts</a>
         </div>
       </div>
     );
