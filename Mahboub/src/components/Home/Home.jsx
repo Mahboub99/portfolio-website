@@ -8,6 +8,55 @@ import { Link } from "react-router-dom";
 
 import "./Home.css";
 
+var d = new Date();
+
+function ContactsIcon(props) {
+  return (
+    <a href={props.link}>
+      <i className={props.icon}></i>
+    </a>
+  );
+}
+
+function Contacts() {
+  return (
+    <div id="Contacts" className="Contacts">
+      <img className="footer-logo" src="/logoWhite.png"></img>
+      <div>
+        <div className="Contacts-Container">
+          <ContactsIcon
+            link="https://www.facebook.com/ahmed.mahboub99"
+            icon="fab fa-facebook  fa-2x Contact-Icon"
+          />
+          <ContactsIcon
+            link="https://twitter.com/Mahboub26428676"
+            icon="fab fa-twitter fa-2x Contact-Icon"
+          />
+          <ContactsIcon
+            link="https://www.linkedin.com/in/ahmed-mahboub-a6607a171/"
+            icon="fab fa-linkedin fa-2x Contact-Icon"
+          />
+          <ContactsIcon
+            link="https://github.com/Mahboub99"
+            icon="fab fa-github fa-2x Contact-Icon"
+          />
+          <ContactsIcon
+            link="https://soundcloud.com/3gvh45dltolm"
+            icon="fab fa-soundcloud fa-2x Contact-Icon"
+          />
+          <ContactsIcon
+            link="https://soundcloud.com/3gvh45dltolm"
+            icon="far fa-envelope fa-2x Contact-Icon"
+          />
+        </div>
+      </div>
+      <p className="copy-rights">
+        &copy; {d.getFullYear()} made by Ahmed Mahboub
+      </p>
+    </div>
+  );
+}
+
 function ProjectElement(props) {
   console.log(props.id);
   return (
@@ -109,6 +158,7 @@ class Home extends Component {
       <div className="Home">
         <About />
         <Projects />
+        <Contacts />
       </div>
     );
   }

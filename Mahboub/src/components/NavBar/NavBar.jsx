@@ -1,10 +1,9 @@
 import React, { Component } from "react";
 import logo from "../../images/logo.png";
 import { Link } from "react-router-dom";
-import Scroll from "react-scroll";
 
 import "./NavBar.css";
-const ScrollLink = Scroll.Link;
+
 class NavBar extends Component {
   constructor(props) {
     super(props);
@@ -23,7 +22,7 @@ class NavBar extends Component {
           <Link to="/">Home</Link>
           <a href="/#projects">Projects</a>
 
-          <a href="/#projects">Contacts</a>
+          <a href="/#Contacts">Contacts</a>
         </div>
       </div>
     );

@@ -49,7 +49,7 @@ const ProjectsArr = [
     id: "6",
     name: "Resturant Simulator",
     discreption:
-      "Tayara is delivery system which manage the process of receiving the orders and deliver it to the custome",
+      "🛵 Resturant Simulator is delivery system which manage the process of receiving the orders and deliver it to the customer",
     photoLogo: "/Projects-logos/ResturantSimulator.svg",
     photoDemo: "/Projects-Demos/ResturantSimulator.png"
   },
@@ -67,7 +67,7 @@ const ProjectsArr = [
     id: "8",
     name: "AlgoBrain",
     discreption:
-      "It is research project implemnted in c++ . Our problem is that how to obtain the attack set of the next move for sliding pieces (queen, bishop and rock) in computer chess engines. But why sliding pieces? The answer is that sliding pieces have so many combinations to be considered. In this paper we will make a comparison between the classical approach to obtain that and the magic bitboard approach and we will provide the reader with C++ implementation for the magic approach as we aim to provide programmers who write chess engines a discussion of one of the fastest and most versatile movebitboard generators for individual sliding pieces",
+      "♟ It is research project implemnted in c++ . Our problem is that how to obtain the attack set of the next move for sliding pieces (queen, bishop and rock) in computer chess engines. But why sliding pieces? The answer is that sliding pieces have so many combinations to be considered. In this paper we will make a comparison between the classical approach to obtain that and the magic bitboard approach and we will provide the reader with C++ implementation for the magic approach as we aim to provide programmers who write chess engines a discussion of one of the fastest and most versatile movebitboard generators for individual sliding pieces",
     photoLogo: "/Projects-logos/AlgoBrain.svg",
     photoDemo: "/Projects-Demos/AlgoBrain.png"
   }

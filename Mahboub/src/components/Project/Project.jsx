@@ -11,7 +11,7 @@ class Project extends Component {
     };
   }
   componentDidMount() {
-    this.setState({ project: Projects[this.props.match.params.pId] });
+    this.setState({ project: Projects[this.props.match.params.pId - 1] });
   }
 
   render() {
@@ -23,7 +23,14 @@ class Project extends Component {
           className="Project-logo-current"
         ></img>
         <h1 className="Project-title-current">{this.state.project.name}</h1>
-        <div className="Project-description-current"></div>
+        <div className="Project-description-current">
+          <p>{this.state.project.discreption}</p>
+          <img
+            className="project-Demo"
+            alt={this.state.project.name}
+            src={this.state.project.photoDemo}
+          ></img>
+        </div>
       </div>
     );
   }
