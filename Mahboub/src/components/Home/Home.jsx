@@ -21,7 +21,7 @@ function ContactsIcon(props) {
 function Contacts() {
   return (
     <div id="Contacts" className="Contacts">
-      <img className="footer-logo" src="/logoWhite.png"></img>
+      <img className="footer-logo" src="/logo.png"></img>
       <div>
         <div className="Contacts-Container">
           <ContactsIcon
