@@ -5,7 +5,7 @@ import Programming from "../../images/Programming.png";
 import Tech from "../../images/Tech.png";
 import ProjectsArr from "../../DataBase/Projects";
 import { Link } from "react-router-dom";
-
+import logo2 from "../../images/logo2.png";
 import "./Home.css";
 
 var d = new Date();
@@ -21,7 +21,7 @@ function ContactsIcon(props) {
 function Contacts() {
   return (
     <div id="Contacts" className="Contacts">
-      <img className="footer-logo" src="/logo.png"></img>
+      <img className="footer-logo" src={logo2}></img>
       <div>
         <div className="Contacts-Container">
           <ContactsIcon
