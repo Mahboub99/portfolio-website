@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/https//Mahboub99.github.io/-portfolio-website/static/css/main.8399a152.chunk.css",
+    "main.js": "/https//Mahboub99.github.io/-portfolio-website/static/js/main.6d55be78.chunk.js",
+    "main.js.map": "/https//Mahboub99.github.io/-portfolio-website/static/js/main.6d55be78.chunk.js.map",
+    "runtime-main.js": "/https//Mahboub99.github.io/-portfolio-website/static/js/runtime-main.ebb6cc82.js",
+    "runtime-main.js.map": "/https//Mahboub99.github.io/-portfolio-website/static/js/runtime-main.ebb6cc82.js.map",
+    "static/js/2.03fe4229.chunk.js": "/https//Mahboub99.github.io/-portfolio-website/static/js/2.03fe4229.chunk.js",
+    "static/js/2.03fe4229.chunk.js.map": "/https//Mahboub99.github.io/-portfolio-website/static/js/2.03fe4229.chunk.js.map",
+    "index.html": "/https//Mahboub99.github.io/-portfolio-website/index.html",
+    "precache-manifest.0b0b8b3a195d16e2aaeef97264b207b3.js": "/https//Mahboub99.github.io/-portfolio-website/precache-manifest.0b0b8b3a195d16e2aaeef97264b207b3.js",
+    "service-worker.js": "/https//Mahboub99.github.io/-portfolio-website/service-worker.js",
+    "static/css/main.8399a152.chunk.css.map": "/https//Mahboub99.github.io/-portfolio-website/static/css/main.8399a152.chunk.css.map",
+    "static/js/2.03fe4229.chunk.js.LICENSE.txt": "/https//Mahboub99.github.io/-portfolio-website/static/js/2.03fe4229.chunk.js.LICENSE.txt",
+    "static/media/Mahboub.jpg": "/https//Mahboub99.github.io/-portfolio-website/static/media/Mahboub.70087f7a.jpg",
+    "static/media/hero.svg": "/https//Mahboub99.github.io/-portfolio-website/static/media/hero.ae74261d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb6cc82.js",
+    "static/js/2.03fe4229.chunk.js",
+    "static/css/main.8399a152.chunk.css",
+    "static/js/main.6d55be78.chunk.js"
+  ]
+}
