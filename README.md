@@ -129,6 +129,8 @@ $ npm start
 ### screen Screenshots
 
 ![image](https://user-images.githubusercontent.com/43186742/106362161-05157280-632a-11eb-9217-11abba805222.png)
+<hr />
+
 
 ![image](https://user-images.githubusercontent.com/43186742/106362182-1bbbc980-632a-11eb-84ac-62980ff36eb9.png)
 
