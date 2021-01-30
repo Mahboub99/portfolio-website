@@ -30,7 +30,7 @@
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/Mahboub99/-portfolio-website
+$ git clone https://github.com/Mahboub99/portfolio-website
 ```
 2. **_Navigate to repository directory_**
 ```sh
