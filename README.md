@@ -1,11 +1,12 @@
 <div align="center">
 <a href="https://github.com/AdelRizq/mini-OS" rel="noopener">
   
-  ![Component 14](https://user-images.githubusercontent.com/40190772/104843823-48f18c00-58d5-11eb-946f-510a76db56b3.png)
+  ![Mahboub](https://user-images.githubusercontent.com/43186742/106363293-4f015700-6330-11eb-9e49-be380a6c1e23.png)
+
 
 </div>
 
-<h3 align="center">OS ^ 1/2</h3>
+<h3 align="center">Mahboub</h3>
 
 <div align="center">
   
