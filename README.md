@@ -34,7 +34,7 @@ $ git clone https://github.com/Mahboub99/-portfolio-website
 ```
 2. **_Navigate to repository directory_**
 ```sh
-$ cd Mahboub
+$ cd portfolio-website/Mahboub
 ```
 
 3. **_Install dependencies_**
