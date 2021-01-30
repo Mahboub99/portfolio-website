@@ -129,23 +129,23 @@ $ npm start
 ### screen Screenshots
 
 ![image](https://user-images.githubusercontent.com/43186742/106362161-05157280-632a-11eb-9217-11abba805222.png)
-<hr />
+
 ![image](https://user-images.githubusercontent.com/43186742/106362182-1bbbc980-632a-11eb-84ac-62980ff36eb9.png)
-<hr />
+
 ![image](https://user-images.githubusercontent.com/43186742/106362198-342be400-632a-11eb-8b47-4082448e34b1.png)
-<hr />
+
 ![image](https://user-images.githubusercontent.com/43186742/106362207-44dc5a00-632a-11eb-8665-7f5347736e04.png)
-<hr />
+
 ![image](https://user-images.githubusercontent.com/43186742/106362218-53c30c80-632a-11eb-9ade-711f037edd07.png)
-<hr />
+
 ![image](https://user-images.githubusercontent.com/43186742/106362234-6b01fa00-632a-11eb-879c-d20ee53bf28a.png)
-<hr />
+
 ![image](https://user-images.githubusercontent.com/43186742/106362255-810fba80-632a-11eb-80d6-d6921e888b35.png)
-<hr />
+
 ![image](https://user-images.githubusercontent.com/43186742/106362277-a1d81000-632a-11eb-80a1-abad683d8704.png)
-<hr />
+
 ![image](https://user-images.githubusercontent.com/43186742/106362300-b4524980-632a-11eb-9c4b-0de18811ade5.png)
-<hr />
+
 
 
 
