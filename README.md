@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/AdelRizq/mini-OS" rel="noopener">
+<a href="https://github.com/Mahboub99/portfolio-website" rel="noopener">
   
   ![Mahboub](https://user-images.githubusercontent.com/43186742/106363293-4f015700-6330-11eb-9e49-be380a6c1e23.png)
 
@@ -10,11 +10,11 @@
 
 <div align="center">
   
-  [![GitHub contributors](https://img.shields.io/github/contributors/Mahboub99/-portfolio-website)](https://github.com/AdelRizq/mini-OS/contributors)
-  [![GitHub issues](https://img.shields.io/github/issues/Mahboub99/-portfolio-website)](https://github.com/AdelRizq/mini-OS/issues)
-  [![GitHub forks](https://img.shields.io/github/forks/Mahboub99/-portfolio-website)](https://github.com/AdelRizq/mini-OS/network)
-  [![GitHub stars](https://img.shields.io/github/stars/Mahboub99/-portfolio-website)](https://github.com/AdelRizq/mini-OS/stargazers)
-  [![GitHub license](https://img.shields.io/github/license/Mahboub99/-portfolio-website)](https://github.com/AdelRizq/mini-OS/blob/master/LICENSE)
+  [![GitHub contributors](https://img.shields.io/github/contributors/Mahboub99/-portfolio-website)](https://github.com/Mahboub99/portfolio-website/contributors)
+  [![GitHub issues](https://img.shields.io/github/issues/Mahboub99/-portfolio-website)](https://github.com/Mahboub99/portfolio-website/issues)
+  [![GitHub forks](https://img.shields.io/github/forks/Mahboub99/-portfolio-website)](https://github.com/Mahboub99/portfolio-website/network)
+  [![GitHub stars](https://img.shields.io/github/stars/Mahboub99/-portfolio-website)](https://github.com/Mahboub99/portfolio-website/stargazers)
+  [![GitHub license](https://img.shields.io/github/license/Mahboub99/-portfolio-website)](https://github.com/Mahboub99/portfolio-website/blob/master/LICENSE)
   <img src="https://img.shields.io/github/languages/count/Mahboub99/-portfolio-website" />
   <img src="https://img.shields.io/github/languages/top/Mahboub99/-portfolio-website" />
   <img src="https://img.shields.io/github/languages/code-size/Mahboub99/-portfolio-website" />
